@@ -473,16 +473,6 @@ Haz esta sección al finalizar, aunque no hayas completado ambas prácticas. Eli
 
 **Comprobación final:** no quedan instancias, discos, respaldos ni otros recursos facturables creados para el taller.
 
-## 9. Comprobación de aprendizaje
-
-Antes de cerrar, comprueba que puedes obtener lo siguiente. Si el instructor solicita evidencias, compártelas sin contraseñas ni claves privadas:
-
-- Una captura o salida del servicio MySQL activo en EC2.
-- El resultado de la consulta de alumnos e inscripciones local.
-- El resultado del mismo ejercicio en RDS y la comprobación de TLS. Si esa parte fue demostrativa, identifica los resultados que mostró el instructor.
-- Una explicación breve de tres responsabilidades que cambian al usar RDS.
-- Confirmación de que terminaste la limpieza.
-
 ## Referencias
 
 - [Instalar y configurar MySQL en Ubuntu](https://ubuntu.com/server/docs/install-and-configure-a-mysql-server).
